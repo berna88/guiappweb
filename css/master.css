@@ -1,10 +1,17 @@
 section{
-  background-color: green;
+  
   height: 930px;
   padding-top: 0;
 }
 
 img{
-  height: 100px;
-  width: 100px;
+  height: 80px;
+  width: 80px;
+}
+.center{
+  margin: auto;
+  display: block;
+}
+.text-center{
+  text-align: center;
 }
