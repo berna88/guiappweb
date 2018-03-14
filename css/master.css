@@ -17,7 +17,18 @@ img{
 }
 p{
   text-align: center;
+  padding: 10px;
 }
 h1{
   text-align: center;
+}
+footer{
+  height: 300px;
+}
+@font-face {
+    font-family: font-guiapp;
+    src: url(../img/Champagne.ttf);
+}
+div{
+  font-family: font-guiapp;
 }
