@@ -1,7 +1,7 @@
 section{
-
-  height: 930px;
+  min-height: 400px;
   padding-top: 0;
+  padding: 10px;
 }
 
 img{
@@ -101,6 +101,9 @@ div{
     margin-top: 2px;
     text-align: center;
 }
-.button:hover{
-  background: #ed1555 !important;
+.bg {
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
